@@ -85,7 +85,7 @@ You might want to skip some steps if your system is already partially installed.
 
 1. Dependencies for building packages
    ```bash
-   sudo apt install python3-rosdep python3-rosinstall python3-rosinstall-generator python3-wstool build-essential
+   sudo apt install python3-rospkg python3-catkin-pkg python3-rosdep python3-rosinstall python3-rosinstall-generator python3-wstool build-essential
    ```
 
 1. Install and initialize rosdep.
